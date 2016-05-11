@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{495A7260-5743-5887-AF43-F3AC52E94AFF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SemesterProjectSix",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		}
+	]
+}
